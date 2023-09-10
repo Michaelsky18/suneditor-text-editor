@@ -32,7 +32,15 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+/* src/TextPreview.css (create this file) */
+.text-preview {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-top: 20px;
 }
